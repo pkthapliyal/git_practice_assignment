@@ -7,7 +7,7 @@ for(let i=1; i<=13; i++){
 		count++ ;
 	}
 }
-if(count>=2){
+if(count=2){
 	console.log(N,": is Prime Number");
 }
 else{
